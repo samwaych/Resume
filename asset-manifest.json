@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/samwaych/resume/static/css/main.54b9cc9e.css",
+    "main.js": "/samwaych/resume/static/js/main.dec756fe.js",
+    "static/js/453.f19e9853.chunk.js": "/samwaych/resume/static/js/453.f19e9853.chunk.js",
+    "static/media/cloudComp.png": "/samwaych/resume/static/media/cloudComp.422979449676ef6cac2a.png",
+    "static/media/gdg.png": "/samwaych/resume/static/media/gdg.15d07fd8d9e1ae5c68ae.png",
+    "static/media/resumeSite.png": "/samwaych/resume/static/media/resumeSite.3b57e7956d28b7816a53.png",
+    "static/media/blueSky.png": "/samwaych/resume/static/media/blueSky.d5dbee102af64e4cddf1.png",
+    "static/media/microsoft-office.png": "/samwaych/resume/static/media/microsoft-office.a2880e0ae039ba074047.png",
+    "static/media/BMI-calculator.jpg": "/samwaych/resume/static/media/BMI-calculator.0996d233f352cf558064.jpg",
+    "static/media/mysql.png": "/samwaych/resume/static/media/mysql.51689d3dfc9225c2b3ac.png",
+    "static/media/jenkins.png": "/samwaych/resume/static/media/jenkins.25fd69547ab8809193d5.png",
+    "static/media/gem.jpg": "/samwaych/resume/static/media/gem.b1a15c47b83c94304cf5.jpg",
+    "static/media/react.png": "/samwaych/resume/static/media/react.27f5eb4041f1a48a4641.png",
+    "static/media/profile2.jpg": "/samwaych/resume/static/media/profile2.83a17a6a2353d0a9b300.jpg",
+    "static/media/bootstrap.png": "/samwaych/resume/static/media/bootstrap.cbbe2271e9af962de893.png",
+    "static/media/VS_Code.png": "/samwaych/resume/static/media/VS_Code.802d4c299f27465fb0d1.png",
+    "static/media/MongoDB.png": "/samwaych/resume/static/media/MongoDB.ab2739d648fd2b5acd20.png",
+    "static/media/teamdynamix.png": "/samwaych/resume/static/media/teamdynamix.c126dc3d4ef1d77fcfe4.png",
+    "static/media/MGC_logo.png": "/samwaych/resume/static/media/MGC_logo.27cdcac903b82a063c8f.png",
+    "static/media/peoplesoft.png": "/samwaych/resume/static/media/peoplesoft.142c692b46d441337d9a.png",
+    "static/media/java.png": "/samwaych/resume/static/media/java.d5374e27e0e4767bd99f.png",
+    "index.html": "/samwaych/resume/index.html",
+    "main.54b9cc9e.css.map": "/samwaych/resume/static/css/main.54b9cc9e.css.map",
+    "main.dec756fe.js.map": "/samwaych/resume/static/js/main.dec756fe.js.map",
+    "453.f19e9853.chunk.js.map": "/samwaych/resume/static/js/453.f19e9853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54b9cc9e.css",
+    "static/js/main.dec756fe.js"
+  ]
+}
