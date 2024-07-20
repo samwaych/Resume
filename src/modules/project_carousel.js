@@ -6,7 +6,7 @@ import gDg from '../imgs/gdg.png';
 import cloudComp from '../imgs/cloudComp.png';
 import bmiCalc from '../imgs/BMI-calculator.jpg';
 import gem from '../imgs/gem.jpg';
-import resumeSite from '../imgs/resumeSite.png';
+import resumeSite from '../imgs/resumeSite.jpg';
 
 function HrefNote() {
     return (
