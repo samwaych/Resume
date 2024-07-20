@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.ec8c3bb1.css",
-    "main.js": "/resume/static/js/main.a4b306b5.js",
+    "main.js": "/resume/static/js/main.fc57e93a.js",
     "static/js/453.f19e9853.chunk.js": "/resume/static/js/453.f19e9853.chunk.js",
     "static/media/cloudComp.png": "/resume/static/media/cloudComp.422979449676ef6cac2a.png",
     "static/media/gdg.png": "/resume/static/media/gdg.15d07fd8d9e1ae5c68ae.png",
-    "static/media/resumeSite.png": "/resume/static/media/resumeSite.3b57e7956d28b7816a53.png",
     "static/media/blueSky.png": "/resume/static/media/blueSky.d5dbee102af64e4cddf1.png",
     "static/media/microsoft-office.png": "/resume/static/media/microsoft-office.a2880e0ae039ba074047.png",
     "static/media/BMI-calculator.jpg": "/resume/static/media/BMI-calculator.0996d233f352cf558064.jpg",
     "static/media/mysql.png": "/resume/static/media/mysql.51689d3dfc9225c2b3ac.png",
     "static/media/jenkins.png": "/resume/static/media/jenkins.25fd69547ab8809193d5.png",
     "static/media/gem.jpg": "/resume/static/media/gem.b1a15c47b83c94304cf5.jpg",
+    "static/media/resumeSite.jpg": "/resume/static/media/resumeSite.c999a7a58b19ee39ee91.jpg",
     "static/media/react.png": "/resume/static/media/react.27f5eb4041f1a48a4641.png",
     "static/media/profile2.jpg": "/resume/static/media/profile2.83a17a6a2353d0a9b300.jpg",
     "static/media/bootstrap.png": "/resume/static/media/bootstrap.cbbe2271e9af962de893.png",
@@ -23,11 +23,11 @@
     "static/media/java.png": "/resume/static/media/java.d5374e27e0e4767bd99f.png",
     "index.html": "/resume/index.html",
     "main.ec8c3bb1.css.map": "/resume/static/css/main.ec8c3bb1.css.map",
-    "main.a4b306b5.js.map": "/resume/static/js/main.a4b306b5.js.map",
+    "main.fc57e93a.js.map": "/resume/static/js/main.fc57e93a.js.map",
     "453.f19e9853.chunk.js.map": "/resume/static/js/453.f19e9853.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec8c3bb1.css",
-    "static/js/main.a4b306b5.js"
+    "static/js/main.fc57e93a.js"
   ]
 }
