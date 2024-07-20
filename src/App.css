@@ -69,7 +69,8 @@ p, li {
 }
 
 .container {
-  width: 1000px;
+  width: 100%;
+  max-width: 1000px;
 }
 
 .profile_section {
